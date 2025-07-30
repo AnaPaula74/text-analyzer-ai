@@ -67,4 +67,7 @@ Recebe um texto e retorna:
 
 Verifica se a palavra buscada foi usada na última análise.
 
+
+
+
 This is a challenge by Coodesh
